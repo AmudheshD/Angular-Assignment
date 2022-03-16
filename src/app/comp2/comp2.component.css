@@ -1,0 +1,35 @@
+.container-2 {
+    height: auto;
+    width: 50%;
+    background-color: #e7ad62;
+    margin-left: 25%;
+    border-radius: .5rem;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.content {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.btn {
+    margin-left: 40%;
+    margin-bottom: 1rem;
+    height: 3rem;
+    width: 20%;
+    background-color: black;
+    color: white;
+    border: none;
+    transition: .6s;
+    font-family: sans-serif;
+    font-size: 1rem;
+    font-weight: 550;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.btn:hover,
+.btn:focus {
+    background-color: green;
+    transform: scale(1.1);
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}

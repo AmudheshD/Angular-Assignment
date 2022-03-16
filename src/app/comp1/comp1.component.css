@@ -1,0 +1,19 @@
+.container-1 {
+    height: auto;
+    width: 50%;
+    background-color: #e7ad62;
+    margin-left: 25%;
+    border-radius: .5rem;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.container-1 h1,h2 {
+    text-align: center;
+    font-family: sans-serif;
+}
+table{
+    margin-left: 40%;
+}
+table,th,td{
+    border: 2px solid;
+}
